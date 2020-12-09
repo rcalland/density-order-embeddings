@@ -1,2 +1,2 @@
-# order-density-embeddings
-pytorch implementation
+# density-order-embeddings
+pytorch implementation of toy example.
